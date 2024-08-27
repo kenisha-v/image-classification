@@ -1,1 +1,1 @@
-# movie-review
+# image-classification
